@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Chinese Pages -->
+  <url>
+    <loc>https://bigmod.ai/</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bigmod.ai/en/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://bigmod.ai/" />
+  </url>
+  
+  <url>
+    <loc>https://bigmod.ai/features.html</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bigmod.ai/en/features.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://bigmod.ai/features.html" />
+  </url>
+  
+  <url>
+    <loc>https://bigmod.ai/pricing.html</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bigmod.ai/en/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://bigmod.ai/pricing.html" />
+  </url>
+  
+  <url>
+    <loc>https://bigmod.ai/comparison.html</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bigmod.ai/en/comparison.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://bigmod.ai/comparison.html" />
+  </url>
+  
+  <url>
+    <loc>https://bigmod.ai/use-cases.html</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bigmod.ai/en/use-cases.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://bigmod.ai/use-cases.html" />
+  </url>
+  
+  <url>
+    <loc>https://bigmod.ai/faq.html</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bigmod.ai/en/faq.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://bigmod.ai/faq.html" />
+  </url>
+  
+  <url>
+    <loc>https://bigmod.ai/privacy.html</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bigmod.ai/en/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://bigmod.ai/privacy.html" />
+  </url>
+  
+  <!-- English Pages -->
+  <url>
+    <loc>https://bigmod.ai/en/</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bigmod.ai/en/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://bigmod.ai/" />
+  </url>
+  
+  <url>
+    <loc>https://bigmod.ai/en/features.html</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bigmod.ai/en/features.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://bigmod.ai/features.html" />
+  </url>
+  
+  <url>
+    <loc>https://bigmod.ai/en/pricing.html</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bigmod.ai/en/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://bigmod.ai/pricing.html" />
+  </url>
+  
+  <url>
+    <loc>https://bigmod.ai/en/comparison.html</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bigmod.ai/en/comparison.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://bigmod.ai/comparison.html" />
+  </url>
+  
+  <url>
+    <loc>https://bigmod.ai/en/use-cases.html</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bigmod.ai/en/use-cases.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://bigmod.ai/use-cases.html" />
+  </url>
+  
+  <url>
+    <loc>https://bigmod.ai/en/faq.html</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bigmod.ai/en/faq.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://bigmod.ai/faq.html" />
+  </url>
+  
+  <url>
+    <loc>https://bigmod.ai/en/privacy.html</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bigmod.ai/en/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://bigmod.ai/privacy.html" />
+  </url>
+</urlset>
